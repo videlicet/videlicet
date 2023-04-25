@@ -1,15 +1,9 @@
 
-### <div align="center">I'm Christoph, a full-stack developer.</div>  
-  
-
-- I’m currently learning TypeScript.  
-  
+### Hi, I'm Christoph, an aspiring softwarr developer.
 
 <br/>  
 
-
 ## My Skill Set  
-
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -30,7 +24,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/christoph-bornemann" target="_blank">
@@ -41,14 +34,10 @@
 </a>  
 </div>  
   
-
 <br/>  
 
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=videlicet&&style=flat-square" align="center" />
