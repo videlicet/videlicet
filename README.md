@@ -1,5 +1,5 @@
 
-### Hi, I'm Christoph, an aspiring software developer.
+# Hi, I'm Christoph, an aspiring software developer.
 
 <br/>  
 
