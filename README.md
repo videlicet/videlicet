@@ -1,5 +1,4 @@
-
-# Hi
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text=Hi%2C%20welcome%21%0%&fontSize=70&fontAlignY=70)
 
 I'm Christoph, an aspiring software developer with a background in linguistics.
 
