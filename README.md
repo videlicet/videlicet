@@ -22,7 +22,7 @@
 
 <div align="center">
    
-General
+<h3>General</h3>
 <table>
          
 <thead><tr><th>DevOps</th></tr></thead>
@@ -42,9 +42,9 @@ General
 
 </div>
 
-<div align="center">
+<div align="center" style="display: flex">
          
-WebDev
+<h3>WebDev</h3>
       
 <table>
          
@@ -80,7 +80,7 @@ WebDev
 
 <div align="center">
    
-Misc
+<h3>Misc</h3>
 <table>
 
 <thead><tr>
@@ -114,7 +114,15 @@ Misc
 
 <br/>  
 
-## Connect with Me  
+## Github Stats  
+<p  align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+<span> &nbsp;&nbsp;&nbsp; <span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=videlicet&show_icons=true&count_private=true&layout=compact&hide_border=true&theme=radical" align="center" />
+</p>
+
+----
+
 <div align="center">
 <a href="https://linkedin.com/in/christoph-bornemann" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -127,15 +135,9 @@ Misc
 </a>  
 </div>  
   
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=videlicet&&style=flat-square" align="center" />
 </div>  
-
 
 <!--
 Created with:
