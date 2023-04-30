@@ -1,6 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Hi%2C%20welcome%21%0%&fontSize=30&fontAlignY=60)
 
 I'm Christoph, an aspiring software developer with a background in linguistics.
+<br/><br/>
+Currently, I'm ... 
+
+<table><tbody><tr>
+<td>working on ...<ul><li> an SPA swap-meet for digital assets</li><li>polishing repos</li><li>anki card template's for japanese </li></ul></td>
+<td>interested in ...<ul><li>WebDev</li><li>Computer Science (esp. computer architecture)</li><li>Anki</li>
+</tr>
+<tr>
+<td>improving ...<ul><li> TypeScript skills</li><li>React/Vite skills</li></ul></td>
+<td>dabbling in ...<ul><li>Python</li><li>C++</li>
+</tbody></table>
 
 <br/>  
 
