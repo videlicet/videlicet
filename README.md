@@ -8,8 +8,12 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 ## My Skill Set
 
 
+
 <div align="center">
-### General     
+
+         
+General
+------
 <table><tr><td valign="top" width="33%">
 
 <div align="center">
@@ -32,7 +36,9 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 </div>
 
 <div align="center">
-### WebDev
+         
+WebDev
+-----         
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
