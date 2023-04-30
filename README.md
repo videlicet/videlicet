@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Hi%2C%20welcome%21%0%&fontSize=30&fontAlignY=60)
-
+<div align="center">
 I'm Christoph, an aspiring software developer with a background in linguistics.
 <br/><br/>
-
+</div>
 
 <table align="center"><tbody><tr>
 <thead><tr><th colspan="2">Currently, I'm ... </th></tr></thead>
@@ -93,7 +93,7 @@ WebDev
 
 <br/>  
 
-## Connect with me  
+## Connect with Me  
 <div align="center">
 <a href="https://linkedin.com/in/christoph-bornemann" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
