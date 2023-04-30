@@ -114,4 +114,10 @@ WebDev
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=videlicet&&style=flat-square" align="center" />
 </div>  
-  
+
+
+<!--
+Created with:
+gitHub profilinator: https://profilinator.rishav.dev
+capsule render: https://github.com/kyechan99/capsule-render
+-->
