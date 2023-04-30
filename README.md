@@ -136,13 +136,16 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+</br>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=videlicet&&style=flat-square" align="center" />
-</div>  
+</div>
 
 <!--
 Created with:
 gitHub profilinator: https://profilinator.rishav.dev
 capsule render: https://github.com/kyechan99/capsule-render
+gitHub readme stats: https://github.com/anuraghazra/github-readme-stats
 -->
