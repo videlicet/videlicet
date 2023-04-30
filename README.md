@@ -114,14 +114,16 @@
 
 <br/>  
 
-## Github Stats  
-<p  align="center">
+
+---
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
 <span> &nbsp;&nbsp;&nbsp; <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=videlicet&show_icons=true&count_private=true&layout=compact&hide_border=true&theme=radical" align="center" />
 </p>
 
-----
+</br>
 
 <div align="center">
 <a href="https://linkedin.com/in/christoph-bornemann" target="_blank">
