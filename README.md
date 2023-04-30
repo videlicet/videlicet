@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Hi%2C%20welcome%21%0%&fontSize=30&fontAlignY=60)
+<br/></br>
 <div align="center">
-I'm Christoph, an aspiring software developer with a background in linguistics.
-<br/><br/>
+<b>I'm Christoph, an aspiring software developer with a background in linguistics.</b>
 </div>
-
+<br/><br/>
 <table align="center"><tbody><tr>
 <thead><tr><th colspan="2">Currently, I'm ... </th></tr></thead>
          
