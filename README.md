@@ -2,12 +2,15 @@
 
 I'm Christoph, an aspiring software developer with a background in linguistics.
 <br/><br/>
-Currently, I'm ... 
 
-<table><tbody><tr>
+
+<table align="center"><tbody><tr>
+<thead><tr><th colspan="2">Currently, I'm ... </th></tr></thead>
+         
 <td>working on ...<ul><li> an SPA swap-meet for digital assets</li><li>polishing repos</li><li>anki card template's for japanese </li></ul></td>
 <td>interested in ...<ul><li>WebDev</li><li>Computer Science (esp. computer architecture)</li><li>Anki</li>
 </tr>
+ 
 <tr>
 <td>improving ...<ul><li> TypeScript skills</li><li>React/Vite skills</li></ul></td>
 <td>dabbling in ...<ul><li>Python</li><li>C++</li>
