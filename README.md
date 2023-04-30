@@ -7,8 +7,9 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 
 ## My Skill Set
 
-### General
+
 <div align="center">
+### General     
 <table><tr><td valign="top" width="33%">
 
 <div align="center">
@@ -30,6 +31,7 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 
 </div>
 
+<div align="center">
 ### WebDev
 <table><tr><td valign="top" width="33%">
 
@@ -51,8 +53,9 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 </div>
-
+         
 </td></tr></table>
+</div>
 
 <br/>  
 
