@@ -13,15 +13,13 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 
          
 General
-------
 <table>
 <thead>
 <tr>
-<th>Frontend</th>
-<th>Backend</th>
+<th>DevOps</th>
+<th>Misc</th>
 </tr>
 </thead>
-
 <tr><td valign="top" width="33%">
 
 <div align="center">
@@ -46,8 +44,16 @@ General
 <div align="center">
          
 WebDev
------         
-<table><tr><td valign="top" width="33%">
+      
+<table>
+<thead>
+<tr>
+<th>Frontend</th>
+<th>Backend</th>
+</tr>
+</thead>
+
+<tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
