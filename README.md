@@ -14,7 +14,15 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
          
 General
 ------
-<table><tr><td valign="top" width="33%">
+<table>
+<thead>
+<tr>
+<th>Frontend</th>
+<th>Backend</th>
+</tr>
+</thead>
+
+<tr><td valign="top" width="33%">
 
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
