@@ -6,6 +6,9 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 <br/>  
 
 ## My Skill Set
+
+### General
+
 <table><tr><td valign="top" width="33%">
 
 <div align="center">
@@ -14,7 +17,10 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table>
+
+### WebDev
+<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -44,7 +50,7 @@ I'm Christoph, an aspiring software developer with a background in linguistics.
  <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 
