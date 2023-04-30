@@ -20,19 +20,13 @@
 
 ## My Skill Set
 
-
-
 <div align="center">
-
-         
+   
 General
 <table>
-<thead>
-<tr>
-<th>DevOps</th>
-<th>Misc</th>
-</tr>
-</thead>
+         
+<thead><tr><th>DevOps</th></tr></thead>
+         
 <tr><td valign="top" width="33%">
 
 <div align="center">
@@ -41,17 +35,10 @@ General
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./resources/vscode.svg" alt="Git" height="50" /></a>
 </div>
-         
-</td><td valign="top" width="33%">
-  
-<div align="center">  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>
- <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
 
-</td></tr></table>
+</td></tr>
+
+</table>
 
 </div>
 
@@ -60,12 +47,11 @@ General
 WebDev
       
 <table>
-<thead>
-<tr>
+         
+<thead><tr>
 <th>Frontend</th>
 <th>Backend</th>
-</tr>
-</thead>
+</tr></thead>
 
 <tr><td valign="top" width="33%">
 
@@ -88,7 +74,42 @@ WebDev
 </div>
 </div>
          
-</td></tr></table>
+</td></tr>
+</table>
+</div>
+
+<div align="center">
+   
+Misc
+<table>
+
+<thead><tr>
+<th>Adobe</th>
+<th>Physical Computing</th>
+</tr></thead>
+  
+<tr><td valign="top" width="33%">
+  
+<div align="center">  
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>    
+</div>
+
+</td>
+
+<td valign="top" width="33%">
+  
+<div align="center">  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>    
+<a href="https://processing.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="50" /></a>            
+
+</div>
+
+</td></tr>
+         
+</table>
+
 </div>
 
 <br/>  
