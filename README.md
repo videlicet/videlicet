@@ -118,9 +118,9 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats-ycnp.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" width="500px" />
+<img src="https://github-readme-stats-navy-nu.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" width="500px" />
 <span> &nbsp;&nbsp;&nbsp; <span>
-<img src="https://github-readme-stats-ycnp.vercel.app/api/top-langs/?username=videlicet&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=radical" align="center" width="300px" /> 
+<img src="https://github-readme-stats-navy-nu.vercel.app/api/top-langs/?username=videlicet&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=radical" align="center" width="300px" /> 
 </p>
 
 </br>
