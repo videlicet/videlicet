@@ -7,7 +7,7 @@
 <table align="center"><tbody><tr>
 <thead><tr><th colspan="2">Currently, I'm ... </th></tr></thead>
          
-<td>working on ...<ul><li> an SPA swap-meet for digital assets</li><li>polishing repos</li><li>anki card template's for japanese </li></ul></td>
+<td>working on ...<ul><li> an SPA swap-meet for digital assets</li><li>polishing repos</li><li>anki card template for japanese </li></ul></td>
 <td>interested in ...<ul><li>WebDev</li><li>Computer Science (esp. computer architecture)</li><li>Anki</li>
 </tr>
 <tr></tr> 
