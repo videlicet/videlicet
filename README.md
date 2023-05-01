@@ -118,10 +118,9 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats-videlicet.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
-
+<img src="https://github-readme-stats-videlicet.vercel.app/api?username=videlicet&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" width="500px" />
 <span> &nbsp;&nbsp;&nbsp; <span>
-<img src="https://github-readme-stats-videlicet.vercel.app/api/top-langs/?username=videlicet&show_icons=true&count_private=true&layout=compact&hide_border=true&theme=radical" align="center" /> 
+<img src="https://github-readme-stats-videlicet.vercel.app/api/top-langs/?username=videlicet&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=radical" align="center" width="300px" /> 
 </p>
 
 </br>
