@@ -12,7 +12,7 @@
 </tr>
 <tr></tr> 
 <tr>
-<td>improving ...<ul><li> TypeScript skills</li><li>React/Vite skills</li></ul><li> Java skills</li></td>
+<td>improving ...<ul><li> TypeScript skills</li><li>React/Vite skills</li><li>Java skills</li></ul></td>
 <td>dabbling in ...<ul><li>Python</li><li>C++</li>
 </tbody></table>
 
