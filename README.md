@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Hi%2C%20welcome%21%0%&fontSize=30&fontAlignY=60)
 <br/></br>
 <div align="center">
-<b>I'm Christoph, an aspiring software developer with a background in linguistics.</b>
+<b>I'm Christoph, a software developer from Germany.</b>
 </div>
 <br/><br/>
 <table align="center"><tbody><tr>
@@ -12,7 +12,7 @@
 </tr>
 <tr></tr> 
 <tr>
-<td>improving ...<ul><li> TypeScript skills</li><li>React/Vite skills</li></ul></td>
+<td>improving ...<ul><li> TypeScript skills</li><li>React/Vite skills</li></ul><li> Java skills</li></td>
 <td>dabbling in ...<ul><li>Python</li><li>C++</li>
 </tbody></table>
 
