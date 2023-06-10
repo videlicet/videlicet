@@ -7,8 +7,8 @@
 <table align="center"><tbody><tr>
 <thead><tr><th colspan="2">Currently, I'm ... </th></tr></thead>
          
-<td>working on ...<ul><li> an SPA swap-meet for digital assets</li><li>polishing repos</li><li>Anki card template for japanese </li></ul></td>
-<td>interested in ...<ul><li>WebDev</li><li>Computer Science (esp. computer architecture)</li><li><a href="https://apps.ankiweb.net/" target="_blank">Anki</a></li>
+<td>working on ...<ul><li> an SPA swap-meet for digital assets</li><li>polishing repos</li><li>Anki card template for Japanese </li></ul></td>
+<td>interested in ...<ul><li>WebDev</li><li>Computer Science</li><li><a href="https://apps.ankiweb.net/" target="_blank">Anki</a></li>
 </tr>
 <tr></tr> 
 <tr>
