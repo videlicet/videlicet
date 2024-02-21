@@ -8,7 +8,7 @@
 <thead><tr><th colspan="2">Currently, I'm ... </th></tr></thead>
          
 <td>working on ...<ul><li> an SPA swap-meet for digital assets</li><li>polishing repos</li><li>Anki card template for Japanese </li></ul></td>
-<td>interested in ...<ul><li>WebDev</li><li>Computer Science</li><li><a href="https://apps.ankiweb.net/" target="_blank">Anki</a></li>
+<td>interested in ...<ul><li>WebDev</li><li>Computer Science</li><li>Languages</li><li><a href="https://apps.ankiweb.net/" target="_blank">Anki</a></li>
 </tr>
 <tr></tr> 
 <tr>
@@ -67,7 +67,6 @@
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="./resources/express.png" alt="Express.js" alt="Express.js" height="50" /></a>
@@ -93,7 +92,6 @@
 <tr><td valign="top" width="33%">
   
 <div align="center">  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>    
 </div>
